@@ -1,0 +1,10 @@
+/* 
+reset básico de estilos
+*/
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%; 
+    font: inherit; /*Herda a configuração de fonte do elemento pai*/
+}
